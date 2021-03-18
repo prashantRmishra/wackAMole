@@ -9,7 +9,7 @@ In this game I have used Following javaScript functions <br>
  }
 ```` 
 <br>
-2.<br>
+2. <br> 
 ````javascript
  setInterval(method,1000);
  //1000 is the interval in ms after which the method() will be executed
