@@ -1,5 +1,5 @@
 # Wack A Mole <br>
-Is is a simple wack a mole game that I have developed in javascript, HTML and css. <br>
+It is a simple wack a mole game that I have developed in javascript, HTML and css. <br>
 In this game I have used Following javaScript functions <br>
 1.<br>
 ````javascript
@@ -7,10 +7,11 @@ In this game I have used Following javaScript functions <br>
      ....
      //for iterating through the element square
  }
-```` 
+````
 <br>
-2. <br> 
-````javascript
+2.
+
+```` javascript
  setInterval(method,1000);
  //1000 is the interval in ms after which the method() will be executed
  //It can also be written as
